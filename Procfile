@@ -1,1 +1,1 @@
-worker: npm i && node system/index.js --pairing
+worker: npm start
